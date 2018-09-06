@@ -28,7 +28,7 @@ transcriptomic cell types are identified.
 The package can be installed using the chunk below.
 
 ```{r install, eval=FALSE}
-BiocInstaller::biocLite("allenpvc")
+BiocManager::install("allenpvc")
 ```
 
 # Pre-processing and summary
